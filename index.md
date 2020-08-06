@@ -5,7 +5,7 @@
 
 # Business Intelligence
 ## Solution
-<img src="images/bi.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/KienVu2368/kienvu2368.github.io/master/images/BI.png"/>
 
 [Combination of Microsoft's BI tool and open source library to solve real world business problem.](https://medium.com/@kien.vu/x%C3%A2y-d%E1%BB%B1ng-h%E1%BB%87-th%E1%BB%91ng-b%C3%A1o-c%C3%A1o-bi-trong-doanh-nghi%E1%BB%87p-487ba7559fe8)
 
