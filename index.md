@@ -3,6 +3,7 @@
 - [tabint - Tabular data interpretation and explanation](https://github.com/KienVu2368/tabint)
 - [hermesql - python SQL query builder](https://github.com/KienVu2368/Hermesql)
 
+_____
 # Business Intelligence
 ## Solution
 <img src="https://raw.githubusercontent.com/KienVu2368/kienvu2368.github.io/master/images/BI.png"/>
@@ -18,7 +19,8 @@ Power BI, Excel, Python; [hermesql](https://github.com/KienVu2368/Hermesql), [ta
 - [Hoozing - The leading Proptech company in selling and leasing real estate](https://www.hoozing.com/)
 - [Weva - The most reputable social network beauty consulting and cosmetic warranty in Vietnam](https://weva.vn/)
 
-# Data science project
+____
+# Data science
 
 ## Customer churn analysis
 [Using consumer data and behavior model to predict customer churn and then improve customer retention.](https://medium.com/@kien.vu/d%E1%BB%B1-%C4%91o%C3%A1n-kh%C3%A1ch-h%C3%A0ng-r%E1%BB%9Di-b%E1%BB%8F-trong-ng%C3%A0nh-vi%E1%BB%85n-th%C3%B4ng-ph%E1%BA%A7n-2-5db819e64347)
@@ -38,8 +40,8 @@ Power BI, Excel, Python; [hermesql](https://github.com/KienVu2368/Hermesql), [ta
 ## Data visual perception
 [A series of using visualization knowledge to get insight from data](https://github.com/KienVu2368/medium-blog)
 
-
-# Articles on Medium
+____
+# Article
 ## Business Intelligence
 - [Cách cấu trúc và tái sử dụng câu lệnh SQL](https://medium.com/@kien.vu/c%C3%A1ch-c%E1%BA%A5u-tr%C3%BAc-v%C3%A0-t%C3%A1i-s%E1%BB%AD-d%E1%BB%A5ng-c%C3%A2u-l%E1%BB%87nh-sql-fc4868179c16)
 - [Xây dựng hệ thống báo cáo BI trong doanh nghiệp](https://medium.com/@kien.vu/x%C3%A2y-d%E1%BB%B1ng-h%E1%BB%87-th%E1%BB%91ng-b%C3%A1o-c%C3%A1o-bi-trong-doanh-nghi%E1%BB%87p-487ba7559fe8)
