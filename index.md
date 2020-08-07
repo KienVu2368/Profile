@@ -11,8 +11,12 @@ _____
 
 [The combination of Microsoft's BI tool and open source library to solve real world business problem.](https://medium.com/@kien.vu/x%C3%A2y-d%E1%BB%B1ng-h%E1%BB%87-th%E1%BB%91ng-b%C3%A1o-c%C3%A1o-bi-trong-doanh-nghi%E1%BB%87p-487ba7559fe8)
 
+<br/><br/>
+
 ## Stack
 Power BI, Excel, Python; [hermesql](https://github.com/KienVu2368/Hermesql), [tabint](https://github.com/KienVu2368/tabint)
+
+<br/><br/>
 
 ## Client
 - [Luxstay - Vietnam's #1 homestay platform](https://www.luxstay.com/vi/)
@@ -26,30 +30,45 @@ ____
 ## Customer churn analysis
 [Using consumer data and behavior model to predict customer churn and then improve customer retention.](https://medium.com/@kien.vu/d%E1%BB%B1-%C4%91o%C3%A1n-kh%C3%A1ch-h%C3%A0ng-r%E1%BB%9Di-b%E1%BB%8F-trong-ng%C3%A0nh-vi%E1%BB%85n-th%C3%B4ng-ph%E1%BA%A7n-2-5db819e64347)
 <img src="images/customer_churn.png?raw=true"/>
-  
-    
-    
+
+<br/><br/>
+
 ## Foody comment analysis
 [Using data from comment on foody and deep learning to build a simple recommendation system.](https://medium.com/@kien.vu/x%C3%A2y-d%E1%BB%B1ng-recommendation-system-%C4%91%C6%A1n-gi%E1%BA%A3n-v%E1%BB%9Bi-deep-learning-4bf665f39928)
+<img src="images/foody.png?raw=true"/>
+
+<br/><br/>
 
 ## Credit default risk 
 [Using  credit history to predict the capable of repaying a loan.](https://medium.com/@kien.vu/d%E1%BB%B1-%C4%91o%C3%A1n-kh%E1%BA%A3-n%C4%83ng-ch%E1%BA%ADm-tr%E1%BA%A3-n%E1%BB%A3-d%E1%BB%B1a-tr%C3%AAn-h%C3%A0nh-vi-ti%C3%AAu-d%C3%B9ng-th%E1%BA%BB-t%C3%ADn-d%E1%BB%A5ng-d6e3ddcf3593)
+<img src="images/credit_default.png?raw=true"/>
+
+<br/><br/>
 
 ## Toxic comment classification
 [Built a multi-headed model that’s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate.](https://medium.com/@kien.vu/l%E1%BA%A7n-%C4%91%E1%BA%A7u-tham-gia-kaggle-toxic-comment-classification-challenge-b106377576b3?source=your_stories_page---------------------------)
+<img src="images/toxic_comment_classification.png?raw=true"/>
+
+<br/><br/>
 
 ## JoyDS
 ["If you're not having fun, you're not learning", So I created a repository to remember moments of joy along the data science journey](https://github.com/KienVu2368/JoyDS)
+<img src="images/JoyDS.png?raw=true"/>
+
+<br/><br/>
 
 ## Data visual perception
 [A series of using visualization knowledge to get insight from data](https://github.com/KienVu2368/medium-blog)
+<img src="images/visual_perception.png?raw=true"/>
 
 ____
 # Article
 ## Business Intelligence
 - [Cách cấu trúc và tái sử dụng câu lệnh SQL](https://medium.com/@kien.vu/c%C3%A1ch-c%E1%BA%A5u-tr%C3%BAc-v%C3%A0-t%C3%A1i-s%E1%BB%AD-d%E1%BB%A5ng-c%C3%A2u-l%E1%BB%87nh-sql-fc4868179c16)
 - [Xây dựng hệ thống báo cáo BI trong doanh nghiệp](https://medium.com/@kien.vu/x%C3%A2y-d%E1%BB%B1ng-h%E1%BB%87-th%E1%BB%91ng-b%C3%A1o-c%C3%A1o-bi-trong-doanh-nghi%E1%BB%87p-487ba7559fe8)
-  
+
+<br/><br/>
+
 ## Data science
 - [The dirtiest job in 21 century](https://medium.com/@kien.vu/the-dirtiest-job-in-21-century-111bf65fdd3e)
 - [Những điều tôi làm trong thời Covid-19](https://medium.com/@kien.vu/nh%E1%BB%AFng-%C4%91i%E1%BB%81u-t%C3%B4i-l%C3%A0m-trong-th%E1%BB%9Di-covid-19-1136c45818af)
