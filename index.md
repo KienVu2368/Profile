@@ -25,7 +25,10 @@ ____
 
 ## Customer churn analysis
 [Using consumer data and behavior model to predict customer churn and then improve customer retention.](https://medium.com/@kien.vu/d%E1%BB%B1-%C4%91o%C3%A1n-kh%C3%A1ch-h%C3%A0ng-r%E1%BB%9Di-b%E1%BB%8F-trong-ng%C3%A0nh-vi%E1%BB%85n-th%C3%B4ng-ph%E1%BA%A7n-2-5db819e64347)
-
+<img src="images/customer_churn.png?raw=true"/>
+  
+    
+    
 ## Foody comment analysis
 [Using data from comment on foody and deep learning to build a simple recommendation system.](https://medium.com/@kien.vu/x%C3%A2y-d%E1%BB%B1ng-recommendation-system-%C4%91%C6%A1n-gi%E1%BA%A3n-v%E1%BB%9Bi-deep-learning-4bf665f39928)
 
