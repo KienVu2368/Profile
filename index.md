@@ -27,14 +27,14 @@ Power BI, Excel, Python; [hermesql](https://github.com/KienVu2368/Hermesql), [ta
 ____
 # Data science
 
-## Customer churn analysis
-[Using consumer data and behavior model to predict customer churn and then improve customer retention.](https://medium.com/@kien.vu/d%E1%BB%B1-%C4%91o%C3%A1n-kh%C3%A1ch-h%C3%A0ng-r%E1%BB%9Di-b%E1%BB%8F-trong-ng%C3%A0nh-vi%E1%BB%85n-th%C3%B4ng-ph%E1%BA%A7n-2-5db819e64347)
+## [Customer churn analysis](https://medium.com/@kien.vu/d%E1%BB%B1-%C4%91o%C3%A1n-kh%C3%A1ch-h%C3%A0ng-r%E1%BB%9Di-b%E1%BB%8F-trong-ng%C3%A0nh-vi%E1%BB%85n-th%C3%B4ng-ph%E1%BA%A7n-2-5db819e64347)
+Using consumer data and behavior model to predict customer churn and then improve customer retention.
 <img src="images/customer_churn.png?raw=true"/>
 
 
 
-## Foody comment analysis
-[Using data from comment on foody and deep learning to build a simple recommendation system.](https://medium.com/@kien.vu/x%C3%A2y-d%E1%BB%B1ng-recommendation-system-%C4%91%C6%A1n-gi%E1%BA%A3n-v%E1%BB%9Bi-deep-learning-4bf665f39928)
+## [Foody comment analysis](https://medium.com/@kien.vu/x%C3%A2y-d%E1%BB%B1ng-recommendation-system-%C4%91%C6%A1n-gi%E1%BA%A3n-v%E1%BB%9Bi-deep-learning-4bf665f39928)
+Using data from comment on foody and deep learning to build a simple recommendation system.
 <img src="images/foody.png?raw=true"/>
 
 
@@ -45,20 +45,20 @@ ____
 
 
 
-## Toxic comment classification
-[Built a multi-headed model that’s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate.](https://medium.com/@kien.vu/l%E1%BA%A7n-%C4%91%E1%BA%A7u-tham-gia-kaggle-toxic-comment-classification-challenge-b106377576b3?source=your_stories_page---------------------------)
+## [Toxic comment classification](https://medium.com/@kien.vu/l%E1%BA%A7n-%C4%91%E1%BA%A7u-tham-gia-kaggle-toxic-comment-classification-challenge-b106377576b3?source=your_stories_page---------------------------)
+Built a multi-headed model that’s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate.
 <img src="images/toxic_comment_classification.png?raw=true"/>
 
 
 
-## JoyDS
-["If you're not having fun, you're not learning", So I created a repository to remember moments of joy along the data science journey](https://github.com/KienVu2368/JoyDS)
+## [JoyDS](https://github.com/KienVu2368/JoyDS)
+"If you're not having fun, you're not learning", So I created a repository to remember moments of joy along the data science journey
 <img src="images/JoyDS.png?raw=true"/>
 
 
 
-## Data visual perception
-[A series of using visualization knowledge to get insight from data](https://github.com/KienVu2368/medium-blog)
+## [Data visual perception](https://github.com/KienVu2368/medium-blog)
+A series of using visualization knowledge to get insight from data
 <img src="images/visual_perception.png?raw=true"/>
 
 ____
